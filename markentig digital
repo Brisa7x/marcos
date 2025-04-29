@@ -1,0 +1,59 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marketing Digital na Prática - eBook</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
+    header { background-color: #192958; color: white; padding: 30px 20px; text-align: center; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    h2 { color: #192958; }
+    .botao { display: inline-block; background-color: #192958; color: white; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 20px; }
+    .bonus, .publico, .garantia { background: #f4f4f4; padding: 15px; border-left: 4px solid #192958; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Transforme sua presença online</h1>
+    <p>com o eBook <strong>“Marketing Digital na Prática”</strong></p>
+  </header>  <section>
+    <h2>O que você vai aprender:</h2>
+    <ul>
+      <li>Como criar sua estratégia digital do zero</li>
+      <li>Quais canais são os mais eficazes para o seu negócio</li>
+      <li>Como produzir conteúdo que atrai e vende</li>
+      <li>Tendências de marketing para 2025</li>
+      <li>Ferramentas práticas para medir e otimizar resultados</li>
+    </ul><div class="publico">
+  <h2>Para quem é esse eBook?</h2>
+  <ul>
+    <li>Iniciantes no marketing digital</li>
+    <li>Empreendedores que querem vender mais online</li>
+    <li>Autônomos e freelancers</li>
+    <li>Influenciadores em crescimento</li>
+    <li>Pequenos negócios</li>
+  </ul>
+</div>
+
+<div class="bonus">
+  <h2>Bônus exclusivo (gratuito!):</h2>
+  <ul>
+    <li>Checklist de Estratégia Digital em PDF</li>
+    <li>Grupo no Telegram com dicas semanais</li>
+    <li>Template de calendário de conteúdo mensal</li>
+  </ul>
+</div>
+
+<h2>Preço Especial de Lançamento: <strong>R$ 27,90</strong></h2>
+<a class="botao" href="#">COMPRAR AGORA</a>
+
+<div class="garantia">
+  <h3>Garantia incondicional de 7 dias!</h3>
+  <p>Se não gostar do conteúdo, você pode pedir reembolso. Simples assim.</p>
+</div>
+
+<p><strong>Dúvidas?</strong> Fale comigo no WhatsApp: <a href="https://wa.me/seunumerowhatsapp">Clique aqui</a></p>
+
+  </section>
+</body>
+</html>
